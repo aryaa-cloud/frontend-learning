@@ -41,7 +41,7 @@ localrepo/
  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aryaa-cloud/localrepo.git
+   git clone https://github.com/imaryacodes/localrepo.git
    ```
 2. Open `index.html` in your browser — no build step needed!
 ---
@@ -54,5 +54,5 @@ localrepo/
  
 ## 👤 Author
 
-**aryaa-cloud** — Learning frontend development, one commit at a time.
+**imaryacodes** — Learning frontend development, one commit at a time.
  
